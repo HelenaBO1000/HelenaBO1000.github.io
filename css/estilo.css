@@ -1,31 +1,43 @@
+a:link
+{
+color:crimson ;
+background-color: transparent;
+text-decoration: none;
+}
+a:visited
+{
+    color: darkred;
+    background-color: transparent;
+    text-decoration: line-through;
+}
 h1
 {
     text-align: center;
     color: saddlebrown;
-    font-size: 2rem;
+    font-size: 3rem;
 }
 h2
 {
     text-align: center;
     color: saddlebrown;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 p1
 {
     text-align: center;
     color: rgb(80, 32, 32);
-    font-size: 0.75rem;
+    font-size: 1.75rem;
 }
 p3
 {
     text-align: center;
     color: rgb(80, 32, 32);
-    font-size: 0.6rem;
+    font-size: 1.6rem;
 }
 
 div
 {
-    font-size: 0.87rem; 
+    font-size: 1.87rem; 
     border-style: double;
     border-color: rgb(80, 32, 32);
 }
